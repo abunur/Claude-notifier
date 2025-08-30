@@ -360,4 +360,4 @@ Perfect for:
 
 **Made with ❤️ for developers who value their time and focus**
 
-*If this tool saves you time, consider [buying me a coffee](https://www.buymeacoffee.com/YOUR_USERNAME) ☕*
+*If this tool saves you time, consider [buying me a coffee]([https://www.buymeacoffee.com/YOUR_USERNAME](https://buymeacoffee.com/abunur)) ☕*
