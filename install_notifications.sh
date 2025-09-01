@@ -9,7 +9,7 @@
 set -e
 
 # Configuration
-INSTALL_DIR="$HOME/workspace/claude/claude-notifier"
+INSTALL_DIR="$HOME/workspace/claude/claude-notifier/Claude-notifier"
 SCRIPT_NAME="notify_complete.sh"
 SCRIPT_PATH="$INSTALL_DIR/$SCRIPT_NAME"
 
